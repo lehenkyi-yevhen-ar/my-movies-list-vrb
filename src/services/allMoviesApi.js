@@ -9,6 +9,7 @@ const options = {
     language: "en-US",
     include_adult: "false",
   },
+  mode: "cors"
 }
 
 const BASE_URL = "https://api.themoviedb.org/3"
