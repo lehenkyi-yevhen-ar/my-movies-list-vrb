@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+body {
+    font-family: "Fuzzy Bubbles", serif;
+}
+html, body {
+  height: 100%;
+}
